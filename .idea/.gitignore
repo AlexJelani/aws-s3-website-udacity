@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/.name
+/aws.xml
+/aws-s3-website-udacity.iml
+/cody_history.xml
+/modules.xml
+/vcs.xml
